@@ -1,0 +1,86 @@
+.maindashboard {
+    width: 100%;
+    height: auto;
+}
+
+.dashboard_inner {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.maindashboard .dash_title {
+    text-align: center;
+    font-size: 34px;
+    color: #03343a;
+    padding: 38px 0px;
+    
+}
+
+.dashboard__inner_img {
+    background: url('/public/images/Pattern.webp');
+    height: 230px;
+    width: 813px;
+    background-size: cover;
+    box-shadow: 2px 2px 10px rgb(201 199 199);
+    background-position: center;
+}
+.usermain .dashboard__inner_img {
+    height: 277px;
+    width: 977px;
+}
+.dashboard__card {
+    height: auto;
+    text-align: justify;
+    width: 700px;
+    padding: 25px 30px;
+    transform: translateY(-130px);
+    background-color: white;
+    box-shadow: 1px 2px 5px rgb(201 199 199);
+}
+.usermain .dashboard__card {
+    width: 840px;
+}
+
+.dashboard__card div {
+    max-width: auto;
+    word-break: break-word;
+    text-align: left;
+    margin-top: 20px;
+}
+.dashboard__card .booktitle{
+    margin-top: 0px;
+
+}
+.dashboard__card .booktitle h2{
+    line-height: 45px;
+    color: #303030;
+    font-size: 25px;
+    border: none;
+    position: relative;
+    border-bottom: 2px #EB9532 solid;
+
+}
+
+.dashboard__card .desc {
+        font-size: 18px;
+        line-height: 33px;
+        color: #545252;
+        }
+
+.btn .viewbtn{
+        border: none;
+        background-color: transparent;
+        cursor: pointer;
+        }
+.btn .view{
+        border: none;
+        color: #3a3434;
+        font-size: 17px;
+        font-weight: bold;
+        text-decoration: underline;
+        color: #EB9532;
+        background-color: transparent;
+        cursor: pointer;
+        }

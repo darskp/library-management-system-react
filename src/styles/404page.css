@@ -1,0 +1,14 @@
+.mainpagenotfound {
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.mainpagenotfound .btn .viewbtn {
+    font-size: 22px;
+    margin-top: 10px;
+}
