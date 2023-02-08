@@ -8,9 +8,9 @@
 - [Technologies Used](#Technologies-Used)
 - [Requirements](#Requirements)
 - [Installation and Usage](#Installation-and-Usage)
-- [What I Learned](#What I Learned)
-- [Continued Development](#Continued Development)
-- [Useful Resources](#Useful Resources)
+- [What I Learned](#What-I-Learned)
+- [Continued Development](#Continued-Development)
+- [Useful Resources](#Useful-Resources)
 
 ## Introduction
 The Library Management System is a web-based software application designed to help manage the day-to-day operations of a library. This system automates many manual processes, reducing the workload and improving efficiency. 
