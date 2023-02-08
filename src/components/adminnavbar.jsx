@@ -1,5 +1,6 @@
 import { NavLink, Link } from 'react-router-dom';
 import '../styles/adminnavbar.css';
+import logo from '../../src/images/admin.png'
 const Adminnavbar = () => {
     let lists = [
         {
@@ -31,7 +32,7 @@ const Adminnavbar = () => {
         <div className='mainNav'>
             <div className='adminnavbar'>
                 <div className="title">
-                    <Link to="/admin/"><img src="../images/admin.png" height="40px" /></Link>
+                    <Link to="/admin/"><img src={logo} height="40px" /></Link>
                     {/* <Link to="/admin/"><img src="/images/admin-portal-icon.png" height="50px" /></Link> */}
                 </div>
                 <div className="linkgrp">

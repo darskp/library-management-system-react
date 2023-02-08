@@ -10,7 +10,8 @@ const Adduser = () => {
     let handlesubmit = e => {
         e.preventDefault();
         let userdata = { name, age, email, phonenumber };
-        fetch('http://localhost:3000/users', {
+        fetch('http://localhost:3000/users', 
+        {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(userdata)

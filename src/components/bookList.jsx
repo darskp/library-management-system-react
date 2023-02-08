@@ -3,14 +3,15 @@ import '../styles/userlist.css';
 import { useNavigate, useLocation } from "react-router-dom";
 const Booklist = () => {
     let location = useLocation();//to fetch route value after the localhost
-    // console.log(location);
     // 99863014
     let navigate = useNavigate();
     let [books, setBooks] = useState([]);
     useEffect(() => {
         let fetchData = async () => {
             let response = await fetch('http://localhost:3000/books');
+            // let response = await fetch('https://darskp.github.io/books-json/books.json');
             let data = await response.json();
+            // console.log(data);
             setBooks(data);
         }
         fetchData();

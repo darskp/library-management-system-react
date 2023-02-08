@@ -142,28 +142,6 @@
       ]
     },
     {
-      "id": 9,
-      "title": "Griffon in Action",
-      "isbn": "1935182234",
-      "pageCount": 375,
-      "publishedDate": {
-        "$date": "2012-06-04T00:00:00.000-0700"
-      },
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg",
-      "shortDescription": "Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.",
-      "longDescription": "Although several options exist for interface development in Java, even popular UI toolkits like Swing have been notoriously complex and difficult to use. Griffon, an agile framework that uses Groovy to simplify Swing, makes UI development dramatically faster and easier. In many respects, Griffon is for desktop development what Grails is for web development. While it's based on Swing, its declarative style and approachable level of abstraction is instantly familiar to developers familiar with other technologies such as Flex or JavaFX.    Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.    You'll learn how SwingBuilder (and its cousin builders) present a very palatable alternative in the form of a DSL geared towards building graphical user interfaces. Pair it up with the convention over configuration paradigm, a well tested and tried application source structure (based on Grails) and you have a recipe for quick and effective Swing application development. Griffon in Action covers declarative view development, like the one provided by JavaFX Script, as well as the structure, architecture and life cycle of Java application development",
-      "status": "PUBLISH",
-      "authors": [
-        "Andres Almiray",
-        "Danno Ferrin",
-        "",
-        "James Shingler"
-      ],
-      "categories": [
-        "Java"
-      ]
-    },
-    {
       "id": 10,
       "title": "OSGi in Depth",
       "isbn": "193518217X",
@@ -429,25 +407,6 @@
       ],
       "categories": [
         "Web Development"
-      ]
-    },
-    {
-      "id": 27,
-      "title": "Designing Hard Software",
-      "isbn": "133046192",
-      "pageCount": 350,
-      "publishedDate": {
-        "$date": "1997-02-01T00:00:00.000-0800"
-      },
-      "shortDescription": "\"This book is well written ... The author does not fear to be controversial. In doing so, he writes a coherent book.\" --Dr. Frank J. van der Linden, Phillips Research Laboratories",
-      "longDescription": "Have you ever heard, \"I can't define a good design but I know one when I see it\"  Designing Hard Software discusses ways to develop software system designs that have the same tangibility and visibility as designs for hard objects like buildings or computer hardware. It emphasizes steps called \"essential tasks\" which result in software specifications that show how each requirement, including robustness and extensibility, will be satisfied. All software developers and managers seeking to develop \"hard\" software will benefit from these ideas.    There are six essential tasks necessary for a good design:    User (run-time) requirements  Development sponsor (build-time) requirements  Domain information  Behavior identification and allocation  Behavior description  Software system architecture  Designing Hard Software goes beyond the standard software development methodologies such as those by Booch, Rumbaugh, Yourdon, and others, by providing techniques for a complete system architecture as well as explicit measures of the goodness of design. So, \"you define a good design.\"",
-      "status": "PUBLISH",
-      "authors": [
-        "Douglas W. Bennett"
-      ],
-      "categories": [
-        "Object-Oriented Programming",
-        "S"
       ]
     },
     {
@@ -6229,19 +6188,6 @@
       "categories": []
     },
     {
-      "id": 683,
-      "title": "AngularJS in Action",
-      "isbn": "1617291331",
-      "pageCount": 0,
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bford.jpg",
-      "status": "MEAP",
-      "authors": [
-        "Brian Ford",
-        "Lukas Ruebbelke"
-      ],
-      "categories": []
-    },
-    {
       "id": 684,
       "title": "Software Development Metrics",
       "isbn": "1617291358",
@@ -7014,7 +6960,7 @@
     {
       "name": "ABC5",
       "age": "33",
-      "email": "ABC4@gmail.com",
+      "email": "ABC5@gmail.com",
       "phonenumber": "1234567895",
       "id": 5
     }
