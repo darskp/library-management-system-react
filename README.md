@@ -17,12 +17,11 @@ Demo video URL : [Click here](https://drive.google.com/file/d/1kJ2C-VYemqQFQqcj7
 The Library Management System is a web-based software application designed to help manage the day-to-day operations of a library. This system automates many manual processes, reducing the workload and improving efficiency. 
 
 ## Screenshot
-[![Demo Video](https://raw.githubusercontent.com/darskp/library-management-system-react/main/screenshots/Library-Management-System.png)](https://drive.google.com/file/d/1kJ2C-VYemqQFQqcj7xWTAdE3Gz2uT5ig/view?usp=sharing)
+[![Demo Video](https://raw.githubusercontent.com/darskp/library-management-system-react/main/screenshots/Library-Management-System.png?token=GHSAT0AAAAAACLMIHZ6GYLSEN45KQR2IFV4ZPAKFPQ)](https://drive.google.com/file/d/1kJ2C-VYemqQFQqcj7xWTAdE3Gz2uT5ig/view?usp=sharing)
 
 ## Links
 - GitHub URL: [GitHub URL here](https://github.com/darskp/library-management-system-react/)
-- Live Site URL: [Live site URL here](https://darskp.github.io/library-management-system-react/)
-
+  
 ## Features
 - Separate login pages for administrators and users
 - Admin can add and delete books, manage users, and view user details
